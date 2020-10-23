@@ -1,0 +1,4 @@
+load STM32F412ZGTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "D:\github\public\keil_freertos_f412zg\RTE\Device\STM32F412ZGTx\" 
